@@ -1,3 +1,38 @@
+ ***Yorum Yap*** ---------------------------------------------------------------------------------------------------------------------------------------------
+![odev4-1](https://user-images.githubusercontent.com/48677712/125127254-eb602e80-e104-11eb-99b2-ca37541aba5b.PNG)
+
+***Yorum yapmadan önce oy vermelisin.*** ----------------------------------------------------------------------------------------------------------------
+![odev4-2](https://user-images.githubusercontent.com/48677712/125127262-ed29f200-e104-11eb-93f7-1263f85b7d6e.PNG)
+
+***Yorumunuz çok kısa.*** ---------------------------------------------------------------------------------------------------------------------------------
+![odev4-3](https://user-images.githubusercontent.com/48677712/125127268-ee5b1f00-e104-11eb-9c82-a8b71ded949d.PNG)
+
+***Yorumlar*** ---------------------------------------------------------------------------------------------------------------------------------------------
+![odev4-4](https://user-images.githubusercontent.com/48677712/125127274-f0bd7900-e104-11eb-9b59-9ad470808d44.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
